@@ -1,0 +1,215 @@
+h3{
+    text-align: center;
+    color: white;
+    text-decoration: underline;
+    background-image: linear-gradient(to right,red,green,greenyellow);
+}
+.navbar{
+    height:60px;
+    width:650px;
+    border-radius: 10px;
+    border:4px solid red;
+    background-color: skyblue;
+    text-align: center;
+    margin-left: 330px;
+    padding-bottom: 20px;
+    list-style-type: none;
+}
+.container1{
+    background-color:aquamarine;
+    border-radius: 10px;
+    height: 220px;
+    width: 100%;
+    border:2px solid green;
+}
+.infobox1{
+    height:100px;
+    width: 400px;
+    background-color: aqua;
+    color: black;
+    border-radius: 10px;
+    margin-left: 20px;
+    text-align: center;
+    font-weight: bold;
+    border: 2px solid green;
+    display:inline-block;
+}
+.infobox2{
+    height:100px;
+    width: 390px;
+    background-color: aqua;
+    color: black;
+    border-radius: 10px;
+    margin-left: 18px;
+    text-align: center;
+    font-weight: bold;
+    border: 2px solid green;
+    display:inline-block;
+}
+.infobox3{
+    height:100px;
+    width: 400px;
+    background-color: aqua;
+    color: black;
+    border-radius: 10px;
+    margin-left: 18px;
+    text-align: center;
+    font-weight: bold;
+    border: 2px solid green;
+    display:inline-block;
+}
+.infobox4{
+    height:100px;
+    width: 380px;
+    background-color: aqua;
+    color: black;
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-left: 450px;
+    text-align: center;
+    font-weight: bold;
+    border: 2px solid green;
+    display:inline-block;
+}
+h2{
+    text-align: center;
+    color: white;
+    text-decoration: underline;
+    background-image: linear-gradient(to right,red,yellow,orange,red); 
+}
+.rankers{
+    background-image: radial-gradient(blue,green); 
+    height: 250px;
+    width: 100%;
+    display:flex;
+    justify-content: space-around;
+}
+.box1{
+    height:100px;
+    width: 250px;
+    background-color:yellow;
+    color:red;
+    border-radius: 10px;
+    margin-top: 50px;
+    text-align: center;
+    text-decoration: underline;
+    line-height: 25px;
+    padding-top: 15px;
+}
+.box2{
+    height:100px;
+    width: 250px;
+    background-color:yellow;
+    color:red;
+    border-radius: 10px;
+    margin-top: 50px;
+    text-align: center;
+    text-decoration: underline;
+    line-height: 25px;
+    padding-top: 15px;
+}
+.box3{
+    height:100px;
+    width: 250px;
+    background-color:yellow;
+    color:red;
+    border-radius: 10px;
+    margin-top: 50px;
+    text-align: center;
+    text-decoration: underline;
+    line-height: 25px;
+    padding-top: 15px;
+}
+.box4{
+    height:100px;
+    width: 250px;
+    background-color:yellow;
+    color:red;
+    border-radius: 10px;
+    margin-top: 50px;
+    text-align: center;
+    text-decoration: underline;
+    line-height: 25px;
+    padding-top: 15px;
+}
+.container2{
+    background-color: white;
+    height: 420px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    border:1px solid black;
+}
+.a{
+   height: 75px;
+   width: 100%;
+   background-color: red;
+   text-align: center;
+   color: white;
+   font-size: 25px;
+   padding-bottom: 15px;
+}
+.a1{
+    display: flex;
+    flex-direction: row;
+    height: 360px;
+}
+.c1{
+    width: 1200px;
+    height: 230px;
+    display: flex;
+    flex-direction: column;
+}
+.con1{
+    height: 85px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+.doubt{
+    height:60px;
+    width: 360px;
+    background-color: greenyellow;
+    font-size: larger;
+    text-align: center;
+    color: white;
+}
+.purchasing{
+    height:60px;
+    width: 360px;
+    background-color: blue;
+    font-size: larger;
+    text-align: center;
+    color: white;
+}
+.bright{
+    height:60px;
+    width: 360px;
+    background-color: rgb(189, 52, 189);
+    font-size: larger;
+    text-align: center;
+    color: white;
+}
+.con2{
+    height: 175px;
+    color: white;
+    background-color: orangered;
+    font-size: larger;
+    margin-top: 10px;
+}
+.c2{
+    width: 90px;
+    height: 220px;
+    background-color: black;
+    color: white;
+    margin-left: 25px;
+    margin-top: 20px;
+}
+.a2{
+    text-align: center;
+    background-color: aqua;
+    height:60px;
+    padding-bottom: 15px;
+    margin-top: 10px;
+}
